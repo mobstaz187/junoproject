@@ -29,7 +29,7 @@ dex = [
 ];
 ca = [
     "<br>",
-    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+    '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">43Y11Q7vHtsv19tt8KjiXEvbUS2xNMqtiV6SZC8xpump</a>',
     "<br>"
   ];
 RUFF = [
@@ -37,7 +37,7 @@ RUFF = [
   "$JUNO",
   '𝕏        <a href="' + twitter + '" target="_blank">twitter/JunoprojectJuno' + '</a>',
   "contract address (Click to Copy): ticker $JUNO",
-  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
+  '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">43Y11Q7vHtsv19tt8KjiXEvbUS2xNMqtiV6SZC8xpump</a>',
   "<br>"
 ];
 social = [
