@@ -1,5 +1,5 @@
 var youtube = "https://www.youtube.com/shorts/NfoqMDvF6II";
-var twitter = "https://x.com/junoproject_declassified";
+var twitter = "https://x.com/JunoprojectJuno";
 var contractaddress = "placeholder_for_updating";
 var password = "woof";
 var dex = "Transmitting TXN"
@@ -35,14 +35,14 @@ ca = [
 RUFF = [
   "<br>",
   "$JUNO",
-  '𝕏        <a href="' + twitter + '" target="_blank">twitter/junoproject_declassified' + '</a>',
+  '𝕏        <a href="' + twitter + '" target="_blank">twitter/JunoprojectJuno' + '</a>',
   "contract address (Click to Copy): ticker $JUNO",
   '<a class="color1" title="Copy Text" id="text" onclick="copyElementText(this.id)">Ongoing Transmission</a>',
   "<br>"
 ];
 social = [
   "<br>",
-  '𝕏        <a href="' + twitter + '" target="_blank">twitter/junoproject_declassified' + '</a>',
+  '𝕏        <a href="' + twitter + '" target="_blank">twitter/JunoprojectJuno' + '</a>',
   "<br>"
 ];
 

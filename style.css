@@ -61,7 +61,7 @@ body {
   }
   #liner::before {
     color: #acb4b0;
-    content: "user@juno:~$";
+    content: "juno@solana:~$";
   }
   #liner.password::before {
     content: "Password:";
